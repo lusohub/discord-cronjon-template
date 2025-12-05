@@ -1,1 +1,1 @@
-# discord-cronjon-template
+# Discord cronjob
